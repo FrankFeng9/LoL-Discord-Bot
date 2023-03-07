@@ -12,7 +12,7 @@
 
 <p  align="center">
 
-Discord bot that retrieves information from the Riot Games API about League of Legends players and servers. The bot responds to slash commands and returns data in embed messages.
+A discord bot that utilizes the Riot Games API to retrieve information about League of Legends players and servers. It responds to slash commands and presents the data in embed messages.
 
 
 ### Key Features
@@ -30,7 +30,7 @@ Please note that the bot can only retrieve information for servers located in No
 
 
 #### Built With 
-[![Discord][discord]][discord.url] [![node.js][node.js]][node.js.url] 
+ [![node.js][node.js]][node.js.url] [![Discord][discord]][discord.url] [![riot][riot]][riot.url]
 
 <br>
 
@@ -143,4 +143,7 @@ Please note that the bot can only retrieve information for servers located in No
 
 [discord]:https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
 [discord.url]:https://discord.com/developers/docs/intro
+
+[riot]:https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white
+[riot.url]:https://developer.riotgames.com/
 

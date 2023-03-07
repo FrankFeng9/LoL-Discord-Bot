@@ -34,7 +34,7 @@ Please note that the bot can only retrieve information for servers located in No
 
 <br>
 
-<img src="discord%20bot/screenshots/summoner.PNG" height=330 title="summoner">  <img src="discord%20bot/screenshots/rank.PNG" height=330 width=400 title="ranked game"> <img src="discord%20bot/screenshots/server.PNG" height=330 width=380 title="server"> 
+<img src="discord%20bot/screenshots/summoner.PNG" height=330 title="summoner">  <img src="discord%20bot/screenshots/rank.PNG" height=330 width=400 title="ranked game"> <img src="discord%20bot/screenshots/server.PNG" height=330 width=330 title="server"> 
  <img src="discord%20bot/screenshots/freetoplay.PNG" width= 300 height=495 title="free champion" > <img src="discord%20bot/screenshots/freetoplay2.PNG" width= 300 height=495 title="free champion"> 
 
 ### Installation and Setup
